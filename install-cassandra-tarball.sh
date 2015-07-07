@@ -15,7 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-VERSION="2.1.4"
+VERSION="2.1.7"
 SHA1="e7283e873403d2e9dac24531d58df21246e5cf3f"
 TARBALL="apache-cassandra-${VERSION}-bin.tar.gz"
 URL="http://www.apache.dist/cassandra/${VERSION}/${TARBALL}"
